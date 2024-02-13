@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
 
 body{
     background-color: #EEF5FF;
@@ -28,17 +29,20 @@ body{
     color: #000000;
     font-family: "Protest Revolution", sans-serif;
     font-weight: 900;
-    font-style: normal;
+    font-style: italic;
 }
 
 #header .text p{
-    text-align: center;
     color: red;
-    margin: 0%;
+    margin-left: 10px;
+    margin-bottom: 0%;
 }
 
 #header .text h1{
     margin: 0%;
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 @keyframes slideIn {
