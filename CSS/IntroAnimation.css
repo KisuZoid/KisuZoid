@@ -14,24 +14,28 @@
     margin-left: 5%;
     margin-top: 2%;
     border-radius: 20px 5px 0px 5px;
-    transition: transform 0.3s ease;
+    transition: 0.3s ease;
+    box-shadow: 0px 4px 8px black;
 }
 
 #art{
     max-width: 45%;
     margin-left: 50%;
     border-radius: 0px 5px 20px 5px; 
-    transition: transform 0.3s ease; 
+    transition: 0.3s ease; 
+    box-shadow: 0px 4px 8px black;
 }
 
 #dev:hover{
     transform: scale(1.1);
+    box-shadow: 0px 4px 8px 0px whitesmoke;
 }
 
 #art:hover{
     transform: scale(1.1);
+    box-shadow: 0px 4px 8px 0px whitesmoke;
 }
 
-video{
+.portfolio{
     display: flex;
 }
