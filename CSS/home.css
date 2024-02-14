@@ -3,7 +3,6 @@
 
 body{
     background-color: #EEF5FF;
-    /* background-color: grey; */
     margin: 0px;
 }
 
@@ -16,7 +15,7 @@ body{
 }
 
 #header img{
-    width: 12rem;
+    width: 25%;
 }
 
 #header div{
