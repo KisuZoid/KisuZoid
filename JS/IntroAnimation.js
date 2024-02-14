@@ -1,9 +1,9 @@
 const professions = [
-    "A Programmer",
-    "A Graphic Designer",
+    "A Developer",
     "An Animator",
-    "A Digital Artist",
-    "A Writter"
+    "A Writer & Lyricist",
+    "A Graphic Designer",
+    "A Digital Artist"
 ];
 
 let currentIndex = 0;
