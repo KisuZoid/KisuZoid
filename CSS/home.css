@@ -2,20 +2,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
 
 body{
-    background-color: #EEF5FF;
+    background-color: #181819;
     margin: 0px;
 }
 
 #header{
     margin: 0%;
     width: auto;
-    background-color: #FBEEE6;
+    background-color: #181819;
     display: flex;
     align-items: center;
 }
 
 #header img{
     width: 25%;
+    border-radius: 0px 70px 70px 0px;
 }
 
 #header div{
@@ -24,14 +25,14 @@ body{
 
 #header .text{
     animation: slideIn 1s ease forwards;
-    color: #000000;
+    color: whitesmoke;
     font-family: "Protest Revolution", sans-serif;
     font-weight: 900;
     font-style: italic;
 }
 
 #header .text p{
-    color: red;
+    color: rgb(243, 106, 106);
     font-size: 1rem;
     margin-left: 0.5rem;
     margin-bottom: 0%;

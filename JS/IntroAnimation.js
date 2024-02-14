@@ -1,9 +1,9 @@
 const professions = [
-    "A Developer",
-    "An Animator",
-    "A Writer & Lyricist",
+    "A Programmer",
     "A Graphic Designer",
-    "A Digital Artist"
+    "An Animator",
+    "A Digital Artist",
+    "A Writter"
 ];
 
 let currentIndex = 0;
@@ -24,7 +24,7 @@ function type() {
 
     document.getElementById("profession").textContent = `"${currentText}"`;
 
-    let typingSpeed = 100; // Adjust typing speed here
+    let typingSpeed = 80; // Adjust typing speed here
 
     if (!isDeleting && letterIndex === profession.length + 1) {
         isDeleting = true;
