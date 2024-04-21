@@ -1,9 +1,10 @@
 /*Social Media*/
 #button{
     margin-top: 5%;
-    position: fixed;
-    top: 40%;
-    right: 5px;
+    position: absolute;
+    right: 7px;
+    top: 20%;
+    bottom: 50%;
 }
 
 .about{
@@ -27,4 +28,21 @@
 .about:hover{
     transform: scale(2);
     box-shadow: 4px 4px 8px 0px rgb(90, 90, 90);
+}
+
+.animation{
+    border: none;
+    background-color: transparent;   
+    animation: upDown 0.5s infinite alternate; /* Animation name, duration, iteration count, direction */
+    transform-origin: center;
+    transition: 1s ease;
+}
+
+@keyframes upDown {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(60%); /* Change the value to increase/decrease the distance of movement */
+    }
 }
