@@ -26,6 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kisuzoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kisuzoid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kislay-anand-159a58287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kislay-anand-159a58287" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22207390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22207390" height="30" width="40" /></a>
 <a href="https://kaggle.com/kisuzoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kisuzoid" height="30" width="40" /></a>
 <a href="https://instagram.com/kisuzoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kisuzoid" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kisuzoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kisuzoid" height="30" width="40" /></a>
